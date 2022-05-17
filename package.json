@@ -1,0 +1,24 @@
+{
+  "name": "project-urlshortnergroup12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dollyshow/project-urlShortnerGroup12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dollyshow/project-urlShortnerGroup12/issues"
+  },
+  "homepage": "https://github.com/dollyshow/project-urlShortnerGroup12#readme",
+  "dependencies": {
+    "module": "^1.2.5",
+    "node": "^17.7.2"
+  }
+}
